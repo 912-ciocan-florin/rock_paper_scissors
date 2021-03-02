@@ -9,11 +9,11 @@ The first at 3 victories will win the game.
 
 ## How to play
 1. Run the `Rock_Paper_Scissors.exe` file
-2. App will run a Splash Screen(Loading Screen) until all the game components are set
-3. After loading the Game interface appearance. Here are presented the title of the game, the scoreboard, and those 3 options(Rock, Paper, Scissors) which can be selected with the mouse click
+2. App will run a Splash Screen (Loading Screen) until all the game components are set
+3. After loading the Game interface appearance. Here are presented the title of the game, the scoreboard, and those 3 options (Rock, Paper, Scissors) which can be selected with the mouse click
 4. After the score reach 3 at one of the players the result of the game is showed.
 5. Two options appearance under scoreboard:
-    + New game - to start a new game(the scoreboard is reset)
+    + New game - to start a new game (the scoreboard is reset)
     + Exit - close the game
 
 ##### Splash Screen
